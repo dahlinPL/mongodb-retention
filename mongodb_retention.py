@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
  Date: 23/03/2018
- Author: Marcin Slowinski (dahlinek@gmail.com)
+ Author: dahlinPL
  Description: A script to remove old data from mongoDB collections.
  Additionally, after remove, it rebuilds indexes on secondaries.
  Requires: MongoClient in python (pymongo)
